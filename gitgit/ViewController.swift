@@ -17,3 +17,5 @@ class ViewController: UIViewController {
 
 }
 
+var greetings = "Hello Pay"
+
